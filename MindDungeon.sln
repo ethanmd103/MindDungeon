@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindDungeon", "MindDungeon\MindDungeon.csproj", "{E9A96241-7A27-403B-BFA3-836F10AF8ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindDragon_Lib", "MindDragon_Lib\MindDragon_Lib.csproj", "{749917EC-FF23-4F10-845A-79D6E5612694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9A96241-7A27-403B-BFA3-836F10AF8ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A96241-7A27-403B-BFA3-836F10AF8ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A96241-7A27-403B-BFA3-836F10AF8ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A96241-7A27-403B-BFA3-836F10AF8ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749917EC-FF23-4F10-845A-79D6E5612694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749917EC-FF23-4F10-845A-79D6E5612694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749917EC-FF23-4F10-845A-79D6E5612694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749917EC-FF23-4F10-845A-79D6E5612694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0E7AC14-4BFB-45B0-AF5A-2262E969ABC8}
+	EndGlobalSection
+EndGlobal
